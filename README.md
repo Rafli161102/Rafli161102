@@ -1,10 +1,8 @@
-<div align="center">
+![Rafli Ramadhan — light theme cover with word-by-word vertical typography motion](https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/folio-cover-v7-light.svg#gh-light-mode-only)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/folio-cover-v6-dark.svg?v=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/folio-cover-v6-light.svg?v=6" />
-  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/folio-cover-v6-light.svg?v=6" alt="Rafli Ramadhan — clean editorial portfolio cover with animated headline and measured scale study" width="100%" />
-</picture>
+![Rafli Ramadhan — dark theme cover with word-by-word vertical typography motion](https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/folio-cover-v7-dark.svg#gh-dark-mode-only)
+
+<div align="center">
 
 <p>
   <a href="https://mrr.my.id"><img src="https://img.shields.io/badge/PORTFOLIO-426EA5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -65,33 +63,59 @@ An early-stage language-design project exploring predictable behaviour, explicit
 
 <h2><img src="https://api.iconify.design/lucide/shapes.svg?color=%23426EA5" width="22" height="22" alt="" /> Skills &amp; Toolkit</h2>
 
-<p>These are the tools and capabilities listed on my <a href="https://mrr.my.id/">portfolio website</a>. They describe the work I do and explore—not a claim of expert-level coding across every technology.</p>
+These practice areas come from my [portfolio website](https://mrr.my.id/). Technology logos represent tools used or explored through AI-assisted projects, not a ranking of coding proficiency.
+
+<h3><img src="https://api.iconify.design/lucide/pen-tool.svg?color=%23426EA5" width="19" height="19" alt="" /> Design &amp; Visual Identity</h3>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="34" height="34" alt="Adobe Photoshop" />
+  &nbsp; <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="34" height="34" alt="Adobe Illustrator" />
+  &nbsp; <img src="https://cdn.simpleicons.org/adobeindesign/FF3366" width="34" height="34" alt="Adobe InDesign" />
+  &nbsp; <img src="https://cdn.simpleicons.org/figma/F24E1E" width="34" height="34" alt="Figma" />
+</p>
+<p align="center"><sub>Photoshop · Illustrator · InDesign · Figma</sub></p>
+
+Brand identity, brand guidelines, typography, layout systems, and visual assets.
+
+<h3><img src="https://api.iconify.design/lucide/printer.svg?color=%23426EA5" width="19" height="19" alt="" /> Print &amp; Production</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
-  <img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="Adobe InDesign" />
+  <img src="https://api.iconify.design/lucide/check-check.svg?color=%23426EA5" width="20" height="20" alt="" /> <strong>Print QC</strong> — CMYK, 300 DPI
+  &nbsp; · &nbsp;
+  <img src="https://api.iconify.design/lucide/package.svg?color=%23426EA5" width="20" height="20" alt="" /> <strong>Packaging</strong> — die-cut
+  &nbsp; · &nbsp;
+  <img src="https://api.iconify.design/lucide/signpost.svg?color=%23426EA5" width="20" height="20" alt="" /> <strong>Commercial signage</strong>
 </p>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,github,typescript,javascript,nodejs,nextjs,react,tailwind&perline=4&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=figma,github,typescript,javascript,nodejs,nextjs,react,tailwind&perline=4&theme=light" />
-    <img src="https://skillicons.dev/icons?i=figma,github,typescript,javascript,nodejs,nextjs,react,tailwind&perline=4&theme=light" alt="Design, collaboration, and web technologies used or explored in projects" />
-  </picture>
-</div>
+Pre-press preparation, print-ready artwork, and coordinating files through production.
 
-<details>
-  <summary><strong>View skills and working areas</strong></summary>
+<h3><img src="https://api.iconify.design/lucide/panels-top-left.svg?color=%23426EA5" width="19" height="19" alt="" /> UI/UX &amp; Digital Prototyping</h3>
 
-  <p><img src="https://api.iconify.design/lucide/printer.svg?color=%23426EA5" width="18" height="18" alt="" /> <strong>Print &amp; production</strong><br />Pre-press, CMYK checks, 300 DPI artwork, packaging, die-cut, and commercial signage.</p>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/github/181717" width="30" height="30" alt="GitHub" />
+  &nbsp; <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="30" height="30" alt="Visual Studio Code" />
+  &nbsp; <img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" height="30" alt="TypeScript" />
+  &nbsp; <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30" height="30" alt="JavaScript" />
+  &nbsp; <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="30" height="30" alt="Node.js" />
+  &nbsp; <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="30" height="30" alt="Next.js" />
+  &nbsp; <img src="https://cdn.simpleicons.org/react/61DAFB" width="30" height="30" alt="React" />
+  &nbsp; <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30" height="30" alt="Tailwind CSS" />
+</p>
+<p align="center"><sub>GitHub · VS Code · TypeScript · JavaScript · Node.js · Next.js · React · Tailwind CSS</sub></p>
 
-  <p><img src="https://api.iconify.design/lucide/pen-tool.svg?color=%23426EA5" width="18" height="18" alt="" /> <strong>Brand &amp; graphic design</strong><br />Visual identity, brand guidelines, graphic materials, typography, and layout.</p>
+UI/UX concepts, web development exploration, and AI-assisted prototypes. These technology icons show the stack encountered in my projects rather than expert-level programming claims.
 
-  <p><img src="https://api.iconify.design/lucide/panels-top-left.svg?color=%23426EA5" width="18" height="18" alt="" /> <strong>Digital design &amp; web exploration</strong><br />UI/UX concepts, website prototyping, and AI-assisted web development.</p>
+<h3><img src="https://api.iconify.design/lucide/clipboard-list.svg?color=%23426EA5" width="19" height="19" alt="" /> Project &amp; Business</h3>
 
-  <p><img src="https://api.iconify.design/lucide/clipboard-list.svg?color=%23426EA5" width="18" height="18" alt="" /> <strong>Project &amp; business work</strong><br />Project management, B2B pitching, quotation and RAB preparation, and coordinating design-to-print workflows.</p>
-</details>
+<p>
+  <img src="https://api.iconify.design/lucide/clipboard-check.svg?color=%23426EA5" width="20" height="20" alt="" /> Project management
+  &nbsp; · &nbsp;
+  <img src="https://api.iconify.design/lucide/target.svg?color=%23426EA5" width="20" height="20" alt="" /> B2B pitching
+  &nbsp; · &nbsp;
+  <img src="https://api.iconify.design/lucide/calculator.svg?color=%23426EA5" width="20" height="20" alt="" /> Quotation &amp; RAB preparation
+</p>
+
+Coordination of project scope, design-to-print workflows, and client-facing work.
 
 <h2><img src="https://api.iconify.design/lucide/move-diagonal-2.svg?color=%23426EA5" width="22" height="22" alt="" /> Motion Studies</h2>
 
@@ -101,61 +125,41 @@ These custom SVG experiments explore layout, rhythm, typography, and colour. The
 
 Six modules move and resize directly between three measured compositions—balanced grid, feature-led, and sidebar. Each panel displays its width × height in pixels plus its relative area compared with a 340 × 126 px reference tile. Labels pause during movement so the measurements never imply a size mid-transition. No fade animation is used for the layouts.
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/kinetic-layout-v6-dark.svg?v=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/kinetic-layout-v6-light.svg?v=6" />
-  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/kinetic-layout-v6-light.svg?v=6" alt="Kinetic layout animation showing three measured compositions with panel positions and dimensions" width="100%" />
-</picture>
-</div>
+![Kinetic Layout showing three measured compositions — light theme](https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/kinetic-layout-v6-light.svg#gh-light-mode-only)
+
+![Kinetic Layout showing three measured compositions — dark theme](https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/kinetic-layout-v6-dark.svg#gh-dark-mode-only)
 
 **02 — Studio Mix**
 
 A DAW-inspired arrangement with four tracks, waveform patterns, beat divisions, and a moving playback head.
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/studio-mix-dark-v1.svg?v=5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/studio-mix-v3.svg?v=5" />
-  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/studio-mix-v3.svg?v=5" alt="DAW timeline animation with tracks, waveforms and a moving playback head" width="100%" />
-</picture>
-</div>
+![DAW-inspired Studio Mix — light theme](https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/studio-mix-v3.svg#gh-light-mode-only)
+
+![DAW-inspired Studio Mix — dark theme](https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/studio-mix-dark-v1.svg#gh-dark-mode-only)
 
 **03 — Creative Cycle**
 
 A motion diagram for the process from brief to design, build, and refinement.
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/creative-cycle-dark-v1.svg?v=5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/creative-cycle-v3.svg?v=5" />
-  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/creative-cycle-v3.svg?v=5" alt="Animated creative process from brief through design and build to refinement" width="100%" />
-</picture>
-</div>
+![Creative Cycle — light theme](https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/creative-cycle-v3.svg#gh-light-mode-only)
+
+![Creative Cycle — dark theme](https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/creative-cycle-dark-v1.svg#gh-dark-mode-only)
 
 **04 — Type Studio**
 
 Typography in motion, focused on scale, hierarchy, and whitespace.
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/type-studio-dark-v1.svg?v=5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/type-studio-v3.svg?v=5" />
-  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/type-studio-v3.svg?v=5" alt="Animated typography study with a moving underline and type scale" width="100%" />
-</picture>
-</div>
+![Type Studio — light theme](https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/type-studio-v3.svg#gh-light-mode-only)
+
+![Type Studio — dark theme](https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/type-studio-dark-v1.svg#gh-dark-mode-only)
 
 **05 — Blue Palette**
 
 A compact colour study built around ink, blue, mist, cloud, and paper tones.
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/blue-palette-dark-v1.svg?v=5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/blue-palette-v3.svg?v=5" />
-  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/blue-palette-v3.svg?v=5" alt="Five-swatch blue palette animation" width="100%" />
-</picture>
-</div>
+![Blue Palette — light theme](https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/blue-palette-v3.svg#gh-light-mode-only)
+
+![Blue Palette — dark theme](https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/blue-palette-dark-v1.svg#gh-dark-mode-only)
 
 <h2><img src="https://api.iconify.design/lucide/message-circle.svg?color=%23426EA5" width="22" height="22" alt="" /> Let's Connect</h2>
 
