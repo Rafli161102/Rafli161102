@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="165" viewBox="0 0 1200 165" role="img" aria-labelledby="t d">
+<title id="t">Type study — typography in motion</title><desc id="d">A clean typographic study with a slowly moving blue underline, designed like a graphic designer's process note.</desc>
+<rect width="1200" height="165" rx="10" fill="#F8FAFD"/><path d="M26 30H1174" stroke="#E0E8F1"/>
+<text x="28" y="21" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.5" fill="#7C8EA5">TYPE STUDY / HIERARCHY &amp; RHYTHM</text>
+<text x="32" y="88" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="700" letter-spacing="-1" fill="#203752">Make it clear.</text>
+<text x="33" y="115" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#697D95">One strong idea. A thoughtful grid. No extra noise.</text>
+<rect x="32" y="128" width="0" height="4" rx="2" fill="#426EA5"><animate attributeName="width" values="0;340;340;0" keyTimes="0;.48;.72;1" dur="7s" repeatCount="indefinite"/></rect>
+<g transform="translate(760 48)"><text x="0" y="0" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.2" fill="#7C8EA5">SCALE</text><text x="0" y="34" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#426EA5">Aa</text><text x="72" y="34" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#203752">Aa</text><text x="129" y="34" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#536B87">Aa</text><text x="172" y="34" font-family="Arial,Helvetica,sans-serif" font-size="10" fill="#7C8EA5">Aa</text><path d="M0 51H390" stroke="#D8E2EE"/><text x="0" y="71" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1" fill="#7C8EA5">WEIGHT / SIZE / SPACE</text></g>
+<rect x=".75" y=".75" width="1198.5" height="163.5" rx="10" fill="none" stroke="#D7E1ED" stroke-width="1.5"/></svg>
