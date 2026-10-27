@@ -1,43 +1,41 @@
 <div align="center">
 
-<img src="assets/creative-header-02.svg" alt="Rafli Ramadhan — graphic design, visual systems, and digital experiments" width="100%" />
+<img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/folio-cover-v3.svg" alt="Rafli Ramadhan — graphic design and digital experiments, with an editorial golden-ratio layout" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=15&duration=3600&pause=1100&color=426EA5&center=true&vCenter=true&width=700&lines=GRAPHIC+DESIGN+%2F+VISUAL+SYSTEMS;CREATIVE+STRATEGY+%2F+DIGITAL+PROJECTS;VIBE+CODING+%2F+AI-ASSISTED+PROTOTYPES" alt="Animated profile tagline" />
-
-[Portfolio](https://mrr.my.id) &nbsp;·&nbsp; [GitHub projects](https://github.com/Rafli161102?tab=repositories) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/m-rafli-r/)
+<p><a href="https://mrr.my.id">Portfolio</a> &nbsp;·&nbsp; <a href="https://github.com/Rafli161102?tab=repositories">Selected repositories</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/m-rafli-r/">LinkedIn</a></p>
 
 </div>
 
 ---
 
-<h2><img src="https://api.iconify.design/lucide/user-round.svg?color=%23426EA5" width="21" height="21" alt="" /> About</h2>
+<h2><img src="https://api.iconify.design/lucide/user-round.svg?color=%23426EA5" width="22" height="22" alt="" /> About</h2>
 
-I'm Rafli — a **graphic designer and creative strategist** interested in visual identity, print design, digital experiences, and creative communities.
+I'm Rafli — a **graphic designer and creative explorer** interested in visual identity, print production, digital experiences, and creative communities.
 
-I also use **vibe coding** as a way to explore web ideas. AI tools help me turn concepts into prototypes; I bring the brief, visual direction, user-flow decisions, testing, and refinement. I'm not claiming to be a traditional software engineer. I learn by making things, checking how they work, and improving the result.
+I also use **vibe coding** to explore web ideas. AI tools help me turn concepts into prototypes; I focus on the brief, visual direction, user flow, testing, and refinement. I'm not presenting myself as a traditional software engineer. I learn by building, reviewing what works, and improving the result.
 
-My approach is simple: make the idea clear, take care of the details, and keep the design useful.
+My design approach is simple: **make it clear, make it useful, and take care of the details.**
 
-<h2><img src="https://api.iconify.design/lucide/palette.svg?color=%23426EA5" width="21" height="21" alt="" /> Areas of Practice</h2>
+<h2><img src="https://api.iconify.design/lucide/palette.svg?color=%23426EA5" width="22" height="22" alt="" /> Areas of Practice</h2>
 
-**Graphic design and visual identity**  
-Brand marks, campaign materials, layout systems, typography, and visual consistency.
+**Graphic design & visual identity**  
+Brand marks, campaign materials, typography, layout systems, and visual consistency.
 
 **Print production**  
-Pre-press preparation, CMYK checks, 300 DPI artwork, packaging, commercial signage, and print quality control.
+Pre-press preparation, CMYK checks, print-ready artwork, packaging, commercial signage, and production quality control.
 
 **Digital exploration**  
-UI/UX ideas, web prototypes, project planning, and AI-assisted product experiments.
+UI/UX concepts, web prototypes, project planning, and AI-assisted product experiments.
 
-<h2><img src="https://api.iconify.design/lucide/folder-open.svg?color=%23426EA5" width="21" height="21" alt="" /> Selected Projects</h2>
+<h2><img src="https://api.iconify.design/lucide/folder-open.svg?color=%23426EA5" width="22" height="22" alt="" /> Selected Work</h2>
 
 ### [WibuScript](https://github.com/Rafli161102/wibuscript)
 
-A playful programming-language experiment exploring syntax, a TypeScript-based interpreter, and developer tooling. I approach it as a space to explore ideas and learn through iteration.
+A playful programming-language experiment exploring syntax, a TypeScript-based interpreter, and developer tooling. I treat it as a way to explore ideas and learn through iteration.
 
 ### [Seira](https://github.com/Rafli161102/seira)
 
-An early-stage language-design project exploring predictable behavior, explicit effects, and compiler foundations.
+An early-stage language-design project exploring predictable behaviour, explicit effects, and compiler foundations.
 
 ### [AquaNime Web](https://github.com/Rafli161102/AquaNime-Web)
 
@@ -45,63 +43,62 @@ A web project connected to AquaNime, the creative community and digital ecosyste
 
 ### [Community Forge](https://github.com/Rafli161102/community-forge)
 
-A product experiment around tools and workflows for organizing community activity.
+A product experiment exploring tools and workflows for organising community activity.
 
-<h2><img src="https://api.iconify.design/lucide/tool-case.svg?color=%23426EA5" width="21" height="21" alt="" /> Creative Toolkit</h2>
+<h2><img src="https://api.iconify.design/lucide/tool-case.svg?color=%23426EA5" width="22" height="22" alt="" /> Creative Toolkit</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai,github,vscode,nextjs,react,tailwind&perline=8&theme=light" alt="Design and digital tools used or explored across my projects" />
 </div>
 
-<p align="center"><sub>Tools I use or explore across projects, not a claim of expert-level coding in every technology.</sub></p>
+<p align="center"><sub>Tools I use or explore across projects. The icons represent my toolbox, not a claim of expert-level coding in every technology.</sub></p>
 
-<h2><img src="https://api.iconify.design/lucide/audio-lines.svg?color=%23426EA5" width="21" height="21" alt="" /> 01 — Studio Session</h2>
+<h2><img src="https://api.iconify.design/lucide/audio-lines.svg?color=%23426EA5" width="22" height="22" alt="" /> Motion Studies</h2>
 
-A small motion study inspired by a digital audio workstation: layered tracks, rhythm clips, waveforms, timeline markers, and a slow-moving playback head.
+Small motion experiments made for this profile. The visual system uses white space, soft blue tones, and measured movement rather than flashy effects.
+
+**01 — Studio Mix**  
+A DAW-inspired arrangement with audio tracks, waveforms, beat divisions, and a moving playback head.
 
 <div align="center">
-  <img src="assets/studio-session-02.svg" alt="Animated DAW timeline with four tracks, waveforms, beat markers, and a moving playback cursor" width="100%" />
+  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/studio-mix-v3.svg" alt="Animated DAW arrangement with four tracks, waveforms, beat divisions and a moving playback head" width="100%" />
 </div>
 
-<h2><img src="https://api.iconify.design/lucide/route.svg?color=%23426EA5" width="21" height="21" alt="" /> 02 — From Brief to Build</h2>
-
-A quiet loop for my working process: understand the brief, shape the design, make a prototype, then refine what needs attention.
+**02 — Creative Cycle**  
+A simple process loop from brief to design, build, and refinement.
 
 <div align="center">
-  <img src="assets/process-flow-01.svg" alt="Animated four-stage creative process from brief through design and build to refinement" width="100%" />
+  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/creative-cycle-v3.svg" alt="Animated four-stage creative process diagram" width="100%" />
 </div>
 
-<h2><img src="https://api.iconify.design/lucide/layout-grid.svg?color=%23426EA5" width="21" height="21" alt="" /> 03 — Composition Study</h2>
-
-Modular layouts, spacing, alignment, and contrast — small explorations of the decisions that make a visual system feel balanced.
+**03 — Layout Lab**  
+A modular composition study exploring grid, spacing, contrast, and balance.
 
 <div align="center">
-  <img src="assets/layout-study-01.svg" alt="Animated modular graphic design layout study with blue blocks, grid lines, and spacing guides" width="100%" />
+  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/layout-lab-v3.svg" alt="Animated graphic design composition study with modular layouts and alignment guides" width="100%" />
 </div>
 
-<h2><img src="https://api.iconify.design/lucide/type.svg?color=%23426EA5" width="21" height="21" alt="" /> 04 — Type in Motion</h2>
-
-A typography specimen about hierarchy, scale, and whitespace. The movement stays subtle so the message remains the focus.
+**04 — Type Studio**  
+Typography in motion, focused on scale, hierarchy, and whitespace.
 
 <div align="center">
-  <img src="assets/type-motion-01.svg" alt="Animated typography specimen with a moving underline and type scale" width="100%" />
+  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/type-studio-v3.svg" alt="Animated typography study with a moving underline and type scale" width="100%" />
 </div>
 
-<h2><img src="https://api.iconify.design/lucide/swatches.svg?color=%23426EA5" width="21" height="21" alt="" /> 05 — Blue Notes</h2>
-
-A compact colour study using ink, blue, mist, cloud, and paper tones to keep the visual language consistent across the page.
+**05 — Blue Palette**  
+A restrained set of ink, blue, mist, cloud, and paper tones.
 
 <div align="center">
-  <img src="assets/palette-study-01.svg" alt="Subtle animated palette study in restrained blue tones" width="100%" />
+  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/blue-palette-v3.svg" alt="Subtly animated five-swatch blue colour palette study" width="100%" />
 </div>
 
-<h2><img src="https://api.iconify.design/lucide/external-link.svg?color=%23426EA5" width="21" height="21" alt="" /> Let's Connect</h2>
+<h2><img src="https://api.iconify.design/lucide/external-link.svg?color=%23426EA5" width="22" height="22" alt="" /> Let's Connect</h2>
 
-Have a project involving visual identity, print design, a creative community, or an AI-assisted digital prototype? Visit my portfolio to see more of my work.
+Have a project involving visual identity, print design, a creative community, or an AI-assisted digital prototype? More context and selected work are available on my portfolio.
 
 <div align="center">
 
-[**View Portfolio**](https://mrr.my.id)
+<a href="https://mrr.my.id"><img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-426EA5?style=flat-square&labelColor=426EA5&logo=googlechrome&logoColor=white" alt="View portfolio" /></a>
 
 <sub>Made with care. Refined one iteration at a time.</sub>
 
