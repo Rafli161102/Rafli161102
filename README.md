@@ -66,7 +66,11 @@ An early-stage language-design project exploring predictable behaviour, explicit
 <h2><img src="https://api.iconify.design/lucide/shapes.svg?color=%23426EA5" width="22" height="22" alt="" /> Creative Toolkit</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,github,typescript,javascript,nodejs,nextjs,react,tailwind&perline=5&theme=light" alt="Design, development and collaboration tools used or explored" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,ps,ai,github,typescript,javascript,nodejs,nextjs,react,tailwind&perline=5&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=figma,ps,ai,github,typescript,javascript,nodejs,nextjs,react,tailwind&perline=5&theme=light" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,github,typescript,javascript,nodejs,nextjs,react,tailwind&perline=5&theme=light" alt="Design, development and collaboration tools used or explored" />
+  </picture>
 </div>
 
 <p align="center"><sub>Tools I use or explore across projects. The logos represent my toolkit, not a claim of expert-level coding in every technology.</sub></p>
