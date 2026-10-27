@@ -54,9 +54,9 @@
 
     <path d="M210 61H216M210 125H216M210 141H216M210 161H216" stroke="#93A8C1" stroke-width="1"/>
     <path d="M213 61V161" stroke="#93A8C1" stroke-width=".8"/>
-    <text x="220" y="83" font-family="Arial,Helvetica,sans-serif" font-size="8" fill="#536B87">64</text>
-    <text x="220" y="129" font-family="Arial,Helvetica,sans-serif" font-size="8" fill="#536B87">80</text>
-    <text x="220" y="158" font-family="Arial,Helvetica,sans-serif" font-size="8" fill="#536B87">100</text>
+    <text x="220" y="127" font-family="Arial,Helvetica,sans-serif" font-size="8" fill="#536B87">64</text>
+    <text x="220" y="143" font-family="Arial,Helvetica,sans-serif" font-size="8" fill="#536B87">80</text>
+    <text x="220" y="163" font-family="Arial,Helvetica,sans-serif" font-size="8" fill="#536B87">100</text>
 
     <text x="28" y="181" font-family="Arial,Helvetica,sans-serif" font-size="8" letter-spacing=".7" fill="#7A8DA3">MODULE DIMENSIONS</text>
     <g font-family="Arial,Helvetica,sans-serif">
