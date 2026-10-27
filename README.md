@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/folio-cover-v4.svg?v=5" width="100%" alt="Rafli Ramadhan — clean white portfolio cover with golden-ratio composition" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/folio-cover-v5-dark.svg?v=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/folio-cover-v5-light.svg?v=5" />
+  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/folio-cover-v5-light.svg?v=5" alt="Rafli Ramadhan — clean editorial portfolio cover with animated headline and measured scale study" width="100%" />
+</picture>
 
 <p>
   <a href="https://mrr.my.id"><img src="https://img.shields.io/badge/PORTFOLIO-426EA5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/Rafli161102?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-203752?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
   <a href="https://www.linkedin.com/in/m-rafli-r/"><img src="https://img.shields.io/badge/LINKEDIN-8EACD1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=15&duration=3600&pause=1100&color=426EA5&center=true&vCenter=true&width=720&lines=GRAPHIC+DESIGN+%2F+VISUAL+SYSTEMS;CREATIVE+STRATEGY+%2F+DIGITAL+EXPLORATION;VIBE+CODING+%2F+AI-ASSISTED+PROTOTYPES" alt="Animated design and creative tagline" />
 
 </div>
 
@@ -71,41 +73,66 @@ An early-stage language-design project exploring predictable behaviour, explicit
 
 <h2><img src="https://api.iconify.design/lucide/move-diagonal-2.svg?color=%23426EA5" width="22" height="22" alt="" /> Motion Studies</h2>
 
-These custom SVG experiments explore layout, rhythm, typography, and colour using a quiet white-and-blue visual system. Shapes move and resize between different compositions rather than relying on flashing effects.
+These custom SVG experiments explore layout, rhythm, typography, and colour. SVG artwork switches between light and dark versions according to the viewing environment's colour-scheme preference.
 
-**01 — Kinetic Layout**  
-A modular artboard where panels shift position, change width and height, and reorganise into new arrangements in an 18-second loop.
+**01 — Kinetic Layout**
+
+Three carefully spaced artboards dissolve between measured compositions. Panels reconfigure into new positions and proportions; each module shows its dimensions in pixels. The transitions are intentionally soft to keep the layout readable.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/kinetic-layout-v4.svg?v=4" width="100%" alt="Animated layout board with blue panels that move and resize through different compositions" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/kinetic-layout-v5-dark.svg?v=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/kinetic-layout-v5-light.svg?v=5" />
+  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/kinetic-layout-v5-light.svg?v=5" alt="Kinetic layout animation showing three measured compositions with panel positions and dimensions" width="100%" />
+</picture>
 </div>
 
-**02 — Studio Mix**  
+**02 — Studio Mix**
+
 A DAW-inspired arrangement with four tracks, waveform patterns, beat divisions, and a moving playback head.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/studio-mix-v3.svg?v=4" width="100%" alt="Animated DAW arrangement with tracks, waveforms and moving playback head" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/studio-mix-dark-v1.svg?v=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/studio-mix-v3.svg?v=5" />
+  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/studio-mix-v3.svg?v=5" alt="DAW timeline animation with tracks, waveforms and a moving playback head" width="100%" />
+</picture>
 </div>
 
-**03 — Creative Cycle**  
-A restrained motion diagram for the process from brief to design, build, and refinement.
+**03 — Creative Cycle**
+
+A motion diagram for the process from brief to design, build, and refinement.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/creative-cycle-v3.svg?v=4" width="100%" alt="Animated creative process from brief through design and build to refinement" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/creative-cycle-dark-v1.svg?v=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/creative-cycle-v3.svg?v=5" />
+  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/creative-cycle-v3.svg?v=5" alt="Animated creative process from brief through design and build to refinement" width="100%" />
+</picture>
 </div>
 
-**04 — Type Studio**  
+**04 — Type Studio**
+
 Typography in motion, focused on scale, hierarchy, and whitespace.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/type-studio-v3.svg?v=4" width="100%" alt="Animated typography study with a moving underline and type scale" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/type-studio-dark-v1.svg?v=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/type-studio-v3.svg?v=5" />
+  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/type-studio-v3.svg?v=5" alt="Animated typography study with a moving underline and type scale" width="100%" />
+</picture>
 </div>
 
-**05 — Blue Palette**  
+**05 — Blue Palette**
+
 A compact colour study built around ink, blue, mist, cloud, and paper tones.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/blue-palette-v3.svg?v=4" width="100%" alt="Subtly animated five-swatch blue colour palette" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/blue-palette-dark-v1.svg?v=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/blue-palette-v3.svg?v=5" />
+  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/blue-palette-v3.svg?v=5" alt="Five-swatch blue palette animation" width="100%" />
+</picture>
 </div>
 
 <h2><img src="https://api.iconify.design/lucide/message-circle.svg?color=%23426EA5" width="22" height="22" alt="" /> Let's Connect</h2>
