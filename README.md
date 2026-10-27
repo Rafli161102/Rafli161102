@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/folio-cover-v3.svg?v=4" width="100%" alt="Rafli Ramadhan — clean white portfolio cover with golden-ratio composition" />
+<img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/folio-cover-v4.svg?v=5" width="100%" alt="Rafli Ramadhan — clean white portfolio cover with golden-ratio composition" />
 
 <p>
   <a href="https://mrr.my.id"><img src="https://img.shields.io/badge/PORTFOLIO-426EA5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
