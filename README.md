@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/folio-cover-v5-dark.svg?v=5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/folio-cover-v5-light.svg?v=5" />
-  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/folio-cover-v5-light.svg?v=5" alt="Rafli Ramadhan — clean editorial portfolio cover with animated headline and measured scale study" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/folio-cover-v6-dark.svg?v=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/folio-cover-v6-light.svg?v=6" />
+  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/folio-cover-v6-light.svg?v=6" alt="Rafli Ramadhan — clean editorial portfolio cover with animated headline and measured scale study" width="100%" />
 </picture>
 
 <p>
@@ -63,17 +63,35 @@ An early-stage language-design project exploring predictable behaviour, explicit
   <img src="https://img.shields.io/badge/Experimental-8EACD1?style=flat-square&logo=github&logoColor=white" alt="Experimental project" />
 </p>
 
-<h2><img src="https://api.iconify.design/lucide/shapes.svg?color=%23426EA5" width="22" height="22" alt="" /> Creative Toolkit</h2>
+<h2><img src="https://api.iconify.design/lucide/shapes.svg?color=%23426EA5" width="22" height="22" alt="" /> Skills &amp; Toolkit</h2>
+
+<p>These are the tools and capabilities listed on my <a href="https://mrr.my.id/">portfolio website</a>. They describe the work I do and explore—not a claim of expert-level coding across every technology.</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="Adobe InDesign" />
+</p>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,ps,ai,github,typescript,javascript,nodejs,nextjs,react,tailwind&perline=5&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=figma,ps,ai,github,typescript,javascript,nodejs,nextjs,react,tailwind&perline=5&theme=light" />
-    <img src="https://skillicons.dev/icons?i=figma,ps,ai,github,typescript,javascript,nodejs,nextjs,react,tailwind&perline=5&theme=light" alt="Design, development and collaboration tools used or explored" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,github,typescript,javascript,nodejs,nextjs,react,tailwind&perline=4&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=figma,github,typescript,javascript,nodejs,nextjs,react,tailwind&perline=4&theme=light" />
+    <img src="https://skillicons.dev/icons?i=figma,github,typescript,javascript,nodejs,nextjs,react,tailwind&perline=4&theme=light" alt="Design, collaboration, and web technologies used or explored in projects" />
   </picture>
 </div>
 
-<p align="center"><sub>Tools I use or explore across projects. The logos represent my toolkit, not a claim of expert-level coding in every technology.</sub></p>
+<details>
+  <summary><strong>View skills and working areas</strong></summary>
+
+  <p><img src="https://api.iconify.design/lucide/printer.svg?color=%23426EA5" width="18" height="18" alt="" /> <strong>Print &amp; production</strong><br />Pre-press, CMYK checks, 300 DPI artwork, packaging, die-cut, and commercial signage.</p>
+
+  <p><img src="https://api.iconify.design/lucide/pen-tool.svg?color=%23426EA5" width="18" height="18" alt="" /> <strong>Brand &amp; graphic design</strong><br />Visual identity, brand guidelines, graphic materials, typography, and layout.</p>
+
+  <p><img src="https://api.iconify.design/lucide/panels-top-left.svg?color=%23426EA5" width="18" height="18" alt="" /> <strong>Digital design &amp; web exploration</strong><br />UI/UX concepts, website prototyping, and AI-assisted web development.</p>
+
+  <p><img src="https://api.iconify.design/lucide/clipboard-list.svg?color=%23426EA5" width="18" height="18" alt="" /> <strong>Project &amp; business work</strong><br />Project management, B2B pitching, quotation and RAB preparation, and coordinating design-to-print workflows.</p>
+</details>
 
 <h2><img src="https://api.iconify.design/lucide/move-diagonal-2.svg?color=%23426EA5" width="22" height="22" alt="" /> Motion Studies</h2>
 
@@ -81,13 +99,13 @@ These custom SVG experiments explore layout, rhythm, typography, and colour. SVG
 
 **01 — Kinetic Layout**
 
-Three carefully spaced artboards dissolve between measured compositions. Panels reconfigure into new positions and proportions; each module shows its dimensions in pixels. The transitions are intentionally soft to keep the layout readable.
+Six modules move and resize directly between three measured compositions—balanced grid, feature-led, and sidebar. Each panel displays its width × height in pixels plus its relative area compared with a 340 × 126 px reference tile. Labels pause during movement so the measurements never imply a size mid-transition. No fade animation is used for the layouts.
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/kinetic-layout-v5-dark.svg?v=5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/kinetic-layout-v5-light.svg?v=5" />
-  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/kinetic-layout-v5-light.svg?v=5" alt="Kinetic layout animation showing three measured compositions with panel positions and dimensions" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/kinetic-layout-v6-dark.svg?v=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/kinetic-layout-v6-light.svg?v=6" />
+  <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/kinetic-layout-v6-light.svg?v=6" alt="Kinetic layout animation showing three measured compositions with panel positions and dimensions" width="100%" />
 </picture>
 </div>
 
