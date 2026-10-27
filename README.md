@@ -63,59 +63,43 @@ An early-stage language-design project exploring predictable behaviour, explicit
 
 <h2><img src="https://api.iconify.design/lucide/shapes.svg?color=%23426EA5" width="22" height="22" alt="" /> Skills &amp; Toolkit</h2>
 
-These practice areas come from my [portfolio website](https://mrr.my.id/). Technology logos represent tools used or explored through AI-assisted projects, not a ranking of coding proficiency.
+<p>Grouped by the kind of work I do. Design and production skills are based on my portfolio; the web stack lists tools I've used or explored through AI-assisted projects.</p>
 
-<h3><img src="https://api.iconify.design/lucide/pen-tool.svg?color=%23426EA5" width="19" height="19" alt="" /> Design &amp; Visual Identity</h3>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="34" height="34" alt="Adobe Photoshop" />
-  &nbsp; <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="34" height="34" alt="Adobe Illustrator" />
-  &nbsp; <img src="https://cdn.simpleicons.org/adobeindesign/FF3366" width="34" height="34" alt="Adobe InDesign" />
-  &nbsp; <img src="https://cdn.simpleicons.org/figma/F24E1E" width="34" height="34" alt="Figma" />
-</p>
-<p align="center"><sub>Photoshop · Illustrator · InDesign · Figma</sub></p>
-
-Brand identity, brand guidelines, typography, layout systems, and visual assets.
-
-<h3><img src="https://api.iconify.design/lucide/printer.svg?color=%23426EA5" width="19" height="19" alt="" /> Print &amp; Production</h3>
-
-<p>
-  <img src="https://api.iconify.design/lucide/check-check.svg?color=%23426EA5" width="20" height="20" alt="" /> <strong>Print QC</strong> — CMYK, 300 DPI
-  &nbsp; · &nbsp;
-  <img src="https://api.iconify.design/lucide/package.svg?color=%23426EA5" width="20" height="20" alt="" /> <strong>Packaging</strong> — die-cut
-  &nbsp; · &nbsp;
-  <img src="https://api.iconify.design/lucide/signpost.svg?color=%23426EA5" width="20" height="20" alt="" /> <strong>Commercial signage</strong>
-</p>
-
-Pre-press preparation, print-ready artwork, and coordinating files through production.
-
-<h3><img src="https://api.iconify.design/lucide/panels-top-left.svg?color=%23426EA5" width="19" height="19" alt="" /> UI/UX &amp; Digital Prototyping</h3>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/github/426EA5" width="30" height="30" alt="GitHub" />
-  &nbsp; <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="30" height="30" alt="Visual Studio Code" />
-  &nbsp; <img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" height="30" alt="TypeScript" />
-  &nbsp; <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30" height="30" alt="JavaScript" />
-  &nbsp; <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="30" height="30" alt="Node.js" />
-  &nbsp; <img src="https://cdn.simpleicons.org/nextdotjs/426EA5" width="30" height="30" alt="Next.js" />
-  &nbsp; <img src="https://cdn.simpleicons.org/react/61DAFB" width="30" height="30" alt="React" />
-  &nbsp; <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30" height="30" alt="Tailwind CSS" />
-</p>
-<p align="center"><sub>GitHub · VS Code · TypeScript · JavaScript · Node.js · Next.js · React · Tailwind CSS</sub></p>
-
-UI/UX concepts, web development exploration, and AI-assisted prototypes. These technology icons show the stack encountered in my projects rather than expert-level programming claims.
-
-<h3><img src="https://api.iconify.design/lucide/clipboard-list.svg?color=%23426EA5" width="19" height="19" alt="" /> Project &amp; Business</h3>
-
-<p>
-  <img src="https://api.iconify.design/lucide/clipboard-check.svg?color=%23426EA5" width="20" height="20" alt="" /> Project management
-  &nbsp; · &nbsp;
-  <img src="https://api.iconify.design/lucide/target.svg?color=%23426EA5" width="20" height="20" alt="" /> B2B pitching
-  &nbsp; · &nbsp;
-  <img src="https://api.iconify.design/lucide/calculator.svg?color=%23426EA5" width="20" height="20" alt="" /> Quotation &amp; RAB preparation
-</p>
-
-Coordination of project scope, design-to-print workflows, and client-facing work.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="https://api.iconify.design/lucide/pen-tool.svg?color=%23426EA5" width="19" height="19" alt="" /> Design &amp; Visual Identity</h3>
+      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/design-tool-logos.svg?v=1" alt="Adobe Photoshop, Adobe Illustrator, Adobe InDesign, and Figma logos" width="100%" />
+      <p><strong>Focus</strong></p>
+      <p>Brand identity, brand guidelines, typography, campaign graphics, layout systems, and visual assets.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="https://api.iconify.design/lucide/printer.svg?color=%23426EA5" width="19" height="19" alt="" /> Print &amp; Production</h3>
+      <p><img src="https://api.iconify.design/lucide/check-check.svg?color=%23426EA5" width="18" height="18" alt="" /> <strong>Print QC</strong><br />CMYK checks and 300 DPI artwork.</p>
+      <p><img src="https://api.iconify.design/lucide/package.svg?color=%23426EA5" width="18" height="18" alt="" /> <strong>Packaging &amp; die-cut</strong><br />Production-ready layouts and cutting guides.</p>
+      <p><img src="https://api.iconify.design/lucide/signpost.svg?color=%23426EA5" width="18" height="18" alt="" /> <strong>Commercial signage</strong><br />Pre-press preparation and print-ready files.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="https://api.iconify.design/lucide/panels-top-left.svg?color=%23426EA5" width="19" height="19" alt="" /> UI/UX &amp; Digital Prototyping</h3>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github,vscode,ts,js,nodejs,nextjs,react,tailwind&perline=4&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github,vscode,ts,js,nodejs,nextjs,react,tailwind&perline=4&theme=light" />
+        <img src="https://skillicons.dev/icons?i=github,vscode,ts,js,nodejs,nextjs,react,tailwind&perline=4&theme=light" alt="GitHub, VS Code, TypeScript, JavaScript, Node.js, Next.js, React, and Tailwind CSS icons" width="100%" />
+      </picture>
+      <p><strong>Focus</strong></p>
+      <p>UI/UX exploration, web development, website prototyping, and AI-assisted building.</p>
+      <p><sub>Tools explored in projects; not a claim of expert-level coding in every technology.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="https://api.iconify.design/lucide/clipboard-list.svg?color=%23426EA5" width="19" height="19" alt="" /> Project &amp; Business</h3>
+      <p><img src="https://api.iconify.design/lucide/clipboard-check.svg?color=%23426EA5" width="18" height="18" alt="" /> <strong>Project management</strong><br />Planning, scope, timelines, and coordination.</p>
+      <p><img src="https://api.iconify.design/lucide/target.svg?color=%23426EA5" width="18" height="18" alt="" /> <strong>B2B pitching</strong><br />Presenting concepts and project proposals.</p>
+      <p><img src="https://api.iconify.design/lucide/calculator.svg?color=%23426EA5" width="18" height="18" alt="" /> <strong>Quotation &amp; RAB</strong><br />Budget estimates and design-to-print workflows.</p>
+    </td>
+  </tr>
+</table>
 
 <h2><img src="https://api.iconify.design/lucide/move-diagonal-2.svg?color=%23426EA5" width="22" height="22" alt="" /> Motion Studies</h2>
 
