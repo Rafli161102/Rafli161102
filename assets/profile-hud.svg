@@ -1,46 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">RFLI.EXE player profile</title>
-  <desc id="desc">A custom dark game interface introducing Rafli as a vibe coder and creative builder.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Rafli Ramadhan — Creative Practice</title>
+  <desc id="desc">A quiet editorial portfolio header using a soft blue palette, typography, layout guides, and graphic design swatches.</desc>
   <defs>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" fill="none" stroke="#182535" stroke-width="1"/>
+    <pattern id="paperGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#DCE5F0" stroke-width=".7"/>
     </pattern>
-    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#45F5CF"/>
-      <stop offset="1" stop-color="#8474FF"/>
-    </linearGradient>
+    <clipPath id="canvas"><rect x="1" y="1" width="1198" height="338" rx="12"/></clipPath>
   </defs>
-  <rect width="1200" height="360" rx="18" fill="#080D15"/>
-  <rect width="1200" height="360" rx="18" fill="url(#grid)" opacity=".8"/>
-  <rect x="10" y="10" width="1180" height="340" rx="12" fill="none" stroke="url(#edge)" stroke-width="2"/>
-  <path d="M10 72H1190" stroke="#263548" stroke-width="1.5"/>
-  <rect x="28" y="28" width="12" height="12" fill="#45F5CF"/>
-  <rect x="46" y="28" width="12" height="12" fill="#8474FF"/>
-  <rect x="64" y="28" width="12" height="12" fill="#263548"/>
-  <text x="92" y="41" fill="#B8C6D9" font-family="monospace" font-size="16" letter-spacing="3">RFLI.EXE</text>
-  <text x="1160" y="41" text-anchor="end" fill="#45F5CF" font-family="monospace" font-size="13" letter-spacing="2">PLAYER FILE // 001</text>
-  <text x="44" y="112" fill="#45F5CF" font-family="monospace" font-size="13" letter-spacing="3">PROFILE LOADED</text>
-  <text x="42" y="158" fill="#F0F6FC" font-family="monospace" font-size="35" font-weight="700" letter-spacing="1">MUHAMMAD RAFLI RAMADHAN</text>
-  <text x="44" y="195" fill="#A9B7CA" font-family="monospace" font-size="17" letter-spacing="2">VIBE CODER  /  CREATIVE BUILDER</text>
-  <rect x="44" y="221" width="485" height="1" fill="#304154"/>
-  <text x="44" y="253" fill="#7F91A8" font-family="monospace" font-size="13" letter-spacing="2">PLAY STYLE</text>
-  <text x="44" y="280" fill="#D7E0EC" font-family="monospace" font-size="16">IDEA  →  AI BUILD  →  TEST  →  ITERATE</text>
-  <text x="44" y="319" fill="#45F5CF" font-family="monospace" font-size="12" letter-spacing="2">CREATIVE DIRECTION // PRODUCT EXPERIMENTS</text>
-  <g transform="translate(850 93)">
-    <rect x="0" y="0" width="280" height="210" rx="10" fill="#0C1420" stroke="#304154" stroke-width="2"/>
-    <rect x="16" y="16" width="248" height="178" rx="4" fill="#101D2B" stroke="#24394C"/>
-    <path d="M32 43H248M32 57H180M32 171H248" stroke="#203449" stroke-width="1"/>
-    <text x="34" y="37" fill="#7F91A8" font-family="monospace" font-size="10" letter-spacing="2">CURRENT MODE</text>
-    <g transform="translate(65 73)">
-      <rect x="0" y="0" width="108" height="70" rx="6" fill="#132C3B" stroke="#45F5CF" stroke-width="2"/>
-      <path d="M18 25H34V9H50V25H66V41H50V57H34V41H18Z" fill="#45F5CF"/>
-      <rect x="79" y="15" width="14" height="14" fill="#8474FF"/>
-      <rect x="79" y="41" width="14" height="14" fill="#45F5CF" opacity=".7"/>
+  <g clip-path="url(#canvas)">
+    <rect width="1200" height="340" rx="12" fill="#F7F9FC"/>
+    <rect x="0" y="0" width="1200" height="340" fill="url(#paperGrid)" opacity=".65"/>
+    <rect x="24" y="24" width="1152" height="292" rx="6" fill="#FFFFFF" stroke="#D8E2EE"/>
+    <path d="M24 66H1176" stroke="#D8E2EE"/>
+    <text x="48" y="50" fill="#48617E" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">MRR  /  CREATIVE PRACTICE</text>
+    <text x="1150" y="50" text-anchor="end" fill="#6D8098" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.2">DESIGN · DIGITAL · EXPERIMENTS</text>
+
+    <text x="48" y="110" fill="#426EA5" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2.4">MUHAMMAD RAFLI RAMADHAN</text>
+    <text x="46" y="158" fill="#203752" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing=".2">Ideas, shaped with intent.</text>
+    <text x="48" y="188" fill="#63758B" font-family="Arial, Helvetica, sans-serif" font-size="17">Graphic design, creative strategy, and AI-assisted building.</text>
+    <path d="M48 210H570" stroke="#D8E2EE"/>
+    <text x="48" y="238" fill="#344D6D" font-family="Arial, Helvetica, sans-serif" font-size="13">VISUAL SYSTEMS</text>
+    <circle cx="184" cy="234" r="2.4" fill="#6C91C4"/>
+    <text x="198" y="238" fill="#344D6D" font-family="Arial, Helvetica, sans-serif" font-size="13">DIGITAL EXPERIENCES</text>
+    <circle cx="364" cy="234" r="2.4" fill="#6C91C4"/>
+    <text x="378" y="238" fill="#344D6D" font-family="Arial, Helvetica, sans-serif" font-size="13">PROTOTYPES</text>
+    <text x="48" y="282" fill="#7B8DA3" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.2">MAKE IT CLEAR. MAKE IT USEFUL. REFINE THE DETAILS.</text>
+
+    <g transform="translate(680 87)">
+      <rect x="0" y="0" width="190" height="176" rx="4" fill="#EAF1F9" stroke="#D7E2EF"/>
+      <rect x="14" y="14" width="162" height="148" fill="#FFFFFF" stroke="#D7E2EF"/>
+      <rect x="27" y="27" width="69" height="69" fill="#4479B7"/>
+      <rect x="103" y="27" width="59" height="31" fill="#D5E4F6"/>
+      <rect x="103" y="64" width="59" height="32" fill="#8EADD4"/>
+      <rect x="27" y="104" width="135" height="7" fill="#24496F"/>
+      <rect x="27" y="118" width="110" height="4" fill="#A5B7CD"/>
+      <rect x="27" y="128" width="121" height="4" fill="#D0DAE6"/>
+      <text x="27" y="151" fill="#63758B" font-family="Arial, Helvetica, sans-serif" font-size="8" letter-spacing="1.2">LAYOUT STUDY / 01</text>
     </g>
-    <text x="34" y="161" fill="#F0F6FC" font-family="monospace" font-size="13" letter-spacing="1">BUILD / LEARN / REPEAT</text>
-    <text x="34" y="184" fill="#45F5CF" font-family="monospace" font-size="10" letter-spacing="2">SESSION ACTIVE</text>
+    <g transform="translate(886 100)">
+      <rect x="0" y="0" width="236" height="150" rx="4" fill="#FFFFFF" stroke="#D7E2EF"/>
+      <text x="17" y="24" fill="#63758B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.4">PALETTE / BLUE NOTES</text>
+      <rect x="17" y="39" width="60" height="58" fill="#203752"/>
+      <rect x="82" y="39" width="60" height="58" fill="#4479B7"/>
+      <rect x="147" y="39" width="72" height="58" fill="#BFD3EC"/>
+      <text x="17" y="115" fill="#63758B" font-family="Arial, Helvetica, sans-serif" font-size="9">INK</text>
+      <text x="82" y="115" fill="#63758B" font-family="Arial, Helvetica, sans-serif" font-size="9">BLUE</text>
+      <text x="147" y="115" fill="#63758B" font-family="Arial, Helvetica, sans-serif" font-size="9">MIST</text>
+      <path d="M17 128H218" stroke="#D7E2EF"/>
+      <text x="17" y="141" fill="#63758B" font-family="Arial, Helvetica, sans-serif" font-size="9">TYPE / GRID / CONTRAST</text>
+    </g>
+    <rect x="1150" y="282" width="8" height="8" rx="4" fill="#4479B7">
+      <animate attributeName="opacity" values=".45;1;.45" dur="4s" repeatCount="indefinite"/>
+    </rect>
   </g>
-  <rect x="1134" y="318" width="10" height="14" fill="#45F5CF">
-    <animate attributeName="opacity" values="1;0.25;1" dur="1.3s" repeatCount="indefinite"/>
-  </rect>
+  <rect x=".75" y=".75" width="1198.5" height="338.5" rx="12" fill="none" stroke="#D3DEEB" stroke-width="1.5"/>
 </svg>
