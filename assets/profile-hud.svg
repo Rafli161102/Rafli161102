@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">RFLI.EXE player profile</title>
+  <desc id="desc">A custom dark game interface introducing Rafli as a vibe coder and creative builder.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#182535" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#45F5CF"/>
+      <stop offset="1" stop-color="#8474FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="#080D15"/>
+  <rect width="1200" height="360" rx="18" fill="url(#grid)" opacity=".8"/>
+  <rect x="10" y="10" width="1180" height="340" rx="12" fill="none" stroke="url(#edge)" stroke-width="2"/>
+  <path d="M10 72H1190" stroke="#263548" stroke-width="1.5"/>
+  <rect x="28" y="28" width="12" height="12" fill="#45F5CF"/>
+  <rect x="46" y="28" width="12" height="12" fill="#8474FF"/>
+  <rect x="64" y="28" width="12" height="12" fill="#263548"/>
+  <text x="92" y="41" fill="#B8C6D9" font-family="monospace" font-size="16" letter-spacing="3">RFLI.EXE</text>
+  <text x="1160" y="41" text-anchor="end" fill="#45F5CF" font-family="monospace" font-size="13" letter-spacing="2">PLAYER FILE // 001</text>
+  <text x="44" y="112" fill="#45F5CF" font-family="monospace" font-size="13" letter-spacing="3">PROFILE LOADED</text>
+  <text x="42" y="158" fill="#F0F6FC" font-family="monospace" font-size="35" font-weight="700" letter-spacing="1">MUHAMMAD RAFLI RAMADHAN</text>
+  <text x="44" y="195" fill="#A9B7CA" font-family="monospace" font-size="17" letter-spacing="2">VIBE CODER  /  CREATIVE BUILDER</text>
+  <rect x="44" y="221" width="485" height="1" fill="#304154"/>
+  <text x="44" y="253" fill="#7F91A8" font-family="monospace" font-size="13" letter-spacing="2">PLAY STYLE</text>
+  <text x="44" y="280" fill="#D7E0EC" font-family="monospace" font-size="16">IDEA  →  AI BUILD  →  TEST  →  ITERATE</text>
+  <text x="44" y="319" fill="#45F5CF" font-family="monospace" font-size="12" letter-spacing="2">CREATIVE DIRECTION // PRODUCT EXPERIMENTS</text>
+  <g transform="translate(850 93)">
+    <rect x="0" y="0" width="280" height="210" rx="10" fill="#0C1420" stroke="#304154" stroke-width="2"/>
+    <rect x="16" y="16" width="248" height="178" rx="4" fill="#101D2B" stroke="#24394C"/>
+    <path d="M32 43H248M32 57H180M32 171H248" stroke="#203449" stroke-width="1"/>
+    <text x="34" y="37" fill="#7F91A8" font-family="monospace" font-size="10" letter-spacing="2">CURRENT MODE</text>
+    <g transform="translate(65 73)">
+      <rect x="0" y="0" width="108" height="70" rx="6" fill="#132C3B" stroke="#45F5CF" stroke-width="2"/>
+      <path d="M18 25H34V9H50V25H66V41H50V57H34V41H18Z" fill="#45F5CF"/>
+      <rect x="79" y="15" width="14" height="14" fill="#8474FF"/>
+      <rect x="79" y="41" width="14" height="14" fill="#45F5CF" opacity=".7"/>
+    </g>
+    <text x="34" y="161" fill="#F0F6FC" font-family="monospace" font-size="13" letter-spacing="1">BUILD / LEARN / REPEAT</text>
+    <text x="34" y="184" fill="#45F5CF" font-family="monospace" font-size="10" letter-spacing="2">SESSION ACTIVE</text>
+  </g>
+  <rect x="1134" y="318" width="10" height="14" fill="#45F5CF">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.3s" repeatCount="indefinite"/>
+  </rect>
+</svg>
