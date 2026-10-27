@@ -95,7 +95,7 @@ An early-stage language-design project exploring predictable behaviour, explicit
 
 <h2><img src="https://api.iconify.design/lucide/move-diagonal-2.svg?color=%23426EA5" width="22" height="22" alt="" /> Motion Studies</h2>
 
-These custom SVG experiments explore layout, rhythm, typography, and colour. SVG artwork switches between light and dark versions according to the viewing environment's colour-scheme preference.
+These custom SVG experiments explore layout, rhythm, typography, and colour. The artwork uses separate light and dark SVG variants selected through the viewing environment's colour-scheme preference. The header headline scrolls vertically between type styles rather than fading.
 
 **01 — Kinetic Layout**
 
