@@ -74,8 +74,9 @@ My design approach is simple: **make it clear, make it useful, and take care of 
   <tr>
     <td width="50%" valign="top">
       <h3><img src="https://api.iconify.design/lucide/pen-tool.svg?color=%23426EA5" width="19" height="19" alt="" /> 01 / Design &amp; Visual Identity</h3>
-      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/skills-design-light-v3.svg#gh-light-mode-only" width="100%" alt="Adobe Photoshop, Illustrator, InDesign and Figma brand icons — light theme" />
-      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/skills-design-dark-v3.svg#gh-dark-mode-only" width="100%" alt="Adobe Photoshop, Illustrator, InDesign and Figma brand icons — dark theme" />
+      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/skills-design-light-v4.svg#gh-light-mode-only" width="100%" alt="Adobe Photoshop, Illustrator, InDesign and Figma brand icons — light theme" />
+      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/skills-design-dark-v4.svg#gh-dark-mode-only" width="100%" alt="Adobe Photoshop, Illustrator, InDesign and Figma brand icons — dark theme" />
+      <p align="center"><strong>Photoshop</strong> &nbsp;·&nbsp; <strong>Illustrator</strong> &nbsp;·&nbsp; <strong>InDesign</strong> &nbsp;·&nbsp; <strong>Figma</strong></p>
       <p><strong>Focus areas</strong></p>
       <p>Brand identity, brand guidelines, typography, campaign graphics, layout systems, and visual assets.</p>
     </td>
@@ -89,8 +90,9 @@ My design approach is simple: **make it clear, make it useful, and take care of 
   <tr>
     <td width="50%" valign="top">
       <h3><img src="https://api.iconify.design/lucide/panels-top-left.svg?color=%23426EA5" width="19" height="19" alt="" /> 03 / UI/UX &amp; Digital Prototyping</h3>
-      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/skills-web-light-v3.svg#gh-light-mode-only" width="100%" alt="GitHub, VS Code, TypeScript, JavaScript, Node.js, Next.js, React and Tailwind CSS brand icons — light theme" />
-      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/skills-web-dark-v3.svg#gh-dark-mode-only" width="100%" alt="GitHub, VS Code, TypeScript, JavaScript, Node.js, Next.js, React and Tailwind CSS brand icons — dark theme" />
+      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/skills-web-light-v4.svg#gh-light-mode-only" width="100%" alt="GitHub, VS Code, TypeScript, JavaScript, Node.js, Next.js, React and Tailwind CSS brand icons — light theme" />
+      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/skills-web-dark-v4.svg#gh-dark-mode-only" width="100%" alt="GitHub, VS Code, TypeScript, JavaScript, Node.js, Next.js, React and Tailwind CSS brand icons — dark theme" />
+      <p align="center"><strong>GitHub</strong> &nbsp;·&nbsp; <strong>VS Code</strong> &nbsp;·&nbsp; <strong>TypeScript</strong> &nbsp;·&nbsp; <strong>JavaScript</strong><br /><strong>Node.js</strong> &nbsp;·&nbsp; <strong>Next.js</strong> &nbsp;·&nbsp; <strong>React</strong> &nbsp;·&nbsp; <strong>Tailwind CSS</strong></p>
       <p><strong>Focus areas</strong></p>
       <p>UI/UX exploration, web prototyping, website development, and AI-assisted building.</p>
       <p><sub>The technology logos represent tools in my project toolbox, not expert-level proficiency in every item.</sub></p>
