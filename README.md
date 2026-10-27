@@ -63,14 +63,15 @@ An early-stage language-design project exploring predictable behaviour, explicit
 
 <h2><img src="https://api.iconify.design/lucide/shapes.svg?color=%23426EA5" width="22" height="22" alt="" /> Skills &amp; Toolkit</h2>
 
-<p>Grouped by the kind of work I do. Design and production skills are based on my portfolio; the web stack lists tools I've used or explored through AI-assisted projects.</p>
+<p>Organised by work area, with local logo assets to avoid missing third-party icons. Design and production skills reflect my portfolio; web tools are technologies I have used or explored while building with AI assistance.</p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><img src="https://api.iconify.design/lucide/pen-tool.svg?color=%23426EA5" width="19" height="19" alt="" /> Design &amp; Visual Identity</h3>
-      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/design-tool-logos.svg?v=1" alt="Adobe Photoshop, Adobe Illustrator, Adobe InDesign, and Figma logos" width="100%" />
-      <p><strong>Focus</strong></p>
+      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/skills-design-light-v2.svg#gh-light-mode-only" width="100%" alt="Adobe Photoshop, Illustrator, InDesign and Figma logos — light theme" />
+      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/skills-design-dark-v2.svg#gh-dark-mode-only" width="100%" alt="Adobe Photoshop, Illustrator, InDesign and Figma logos — dark theme" />
+      <p><strong>Practice areas</strong></p>
       <p>Brand identity, brand guidelines, typography, campaign graphics, layout systems, and visual assets.</p>
     </td>
     <td width="50%" valign="top">
@@ -83,14 +84,11 @@ An early-stage language-design project exploring predictable behaviour, explicit
   <tr>
     <td width="50%" valign="top">
       <h3><img src="https://api.iconify.design/lucide/panels-top-left.svg?color=%23426EA5" width="19" height="19" alt="" /> UI/UX &amp; Digital Prototyping</h3>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github,vscode,ts,js,nodejs,nextjs,react,tailwind&perline=4&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github,vscode,ts,js,nodejs,nextjs,react,tailwind&perline=4&theme=light" />
-        <img src="https://skillicons.dev/icons?i=github,vscode,ts,js,nodejs,nextjs,react,tailwind&perline=4&theme=light" alt="GitHub, VS Code, TypeScript, JavaScript, Node.js, Next.js, React, and Tailwind CSS icons" width="100%" />
-      </picture>
-      <p><strong>Focus</strong></p>
+      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/skills-web-light-v2.svg#gh-light-mode-only" width="100%" alt="GitHub, VS Code, TypeScript, JavaScript, Node.js, Next.js, React and Tailwind CSS logos — light theme" />
+      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/skills-web-dark-v2.svg#gh-dark-mode-only" width="100%" alt="GitHub, VS Code, TypeScript, JavaScript, Node.js, Next.js, React and Tailwind CSS logos — dark theme" />
+      <p><strong>Practice areas</strong></p>
       <p>UI/UX exploration, web development, website prototyping, and AI-assisted building.</p>
-      <p><sub>Tools explored in projects; not a claim of expert-level coding in every technology.</sub></p>
+      <p><sub>These logos show the project toolbox, not expert-level proficiency in every technology.</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3><img src="https://api.iconify.design/lucide/clipboard-list.svg?color=%23426EA5" width="19" height="19" alt="" /> Project &amp; Business</h3>
