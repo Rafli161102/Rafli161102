@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">Kinetic Layout — changing graphic composition</title>
+<desc id="desc">A clean white graphic design board where blue and pale-blue modular panels smoothly change position, scale and proportion to explore changing layouts.</desc>
+<defs>
+  <pattern id="paper-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#EDF1F6" stroke-width=".8"/></pattern>
+  <clipPath id="artboard"><rect x="24" y="58" width="1152" height="340" rx="6"/></clipPath>
+</defs>
+<rect width="1200" height="440" rx="12" fill="#FFFFFF"/>
+<path d="M24 44H1176" stroke="#E0E7F0"/>
+<text x="28" y="26" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="1.6" fill="#7B8DA4">KINETIC LAYOUT / POSITION, SCALE, RHYTHM</text>
+<text x="1172" y="26" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.1" fill="#8292A7">COMPOSITION STUDY 01—05</text>
+<g clip-path="url(#artboard)">
+  <rect x="24" y="58" width="1152" height="340" fill="#F8FAFD"/>
+  <rect x="24" y="58" width="1152" height="340" fill="url(#paper-grid)"/>
+  <rect x="44" y="78" width="1112" height="300" fill="#FFFFFF" stroke="#DDE6F0"/>
+  <g fill="#E2EAF4" stroke="#C8D7E8" stroke-width="1">
+    <rect x="65" y="101" width="236" height="105" rx="3">
+      <animate attributeName="x" values="65;65;410;410;65" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+      <animate attributeName="y" values="101;101;100;220;101" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+      <animate attributeName="width" values="236;236;470;300;236" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+      <animate attributeName="height" values="105;105;90;118;105" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+    </rect>
+    <rect x="316" y="101" width="178" height="105" rx="3" fill="#BFD1E7">
+      <animate attributeName="x" values="316;316;65;720;316" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+      <animate attributeName="y" values="101;101;210;100;101" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+      <animate attributeName="width" values="178;178;300;180;178" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+      <animate attributeName="height" values="105;105;100;100;105" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+    </rect>
+    <rect x="509" y="101" width="300" height="105" rx="3" fill="#426EA5" stroke="#426EA5">
+      <animate attributeName="x" values="509;509;680;180;509" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+      <animate attributeName="y" values="101;101;220;101;101" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+      <animate attributeName="width" values="300;300;170;470;300" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+      <animate attributeName="height" values="105;105;118;90;105" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+    </rect>
+    <rect x="824" y="101" width="310" height="105" rx="3" fill="#F1F5FA">
+      <animate attributeName="x" values="824;824;870;65;824" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+      <animate attributeName="y" values="101;101;100;220;101" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+      <animate attributeName="width" values="310;310;260;300;310" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+      <animate attributeName="height" values="105;105;90;118;105" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <g fill="#F4F7FB" stroke="#D7E1EE" stroke-width="1">
+    <rect x="65" y="222" width="170" height="132" rx="3">
+      <animate attributeName="x" values="65;65;65;720;65" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+      <animate attributeName="y" values="222;222;220;100;222" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+      <animate attributeName="width" values="170;170;300;180;170" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+    </rect>
+    <rect x="250" y="222" width="244" height="132" rx="3" fill="#DDE7F3">
+      <animate attributeName="x" values="250;250;370;410;250" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+      <animate attributeName="y" values="222;222;220;100;222" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+      <animate attributeName="width" values="244;244;300;470;244" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+    </rect>
+    <rect x="509" y="222" width="300" height="132" rx="3" fill="#E7EEF7">
+      <animate attributeName="x" values="509;509;680;180;509" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+      <animate attributeName="y" values="222;222;220;100;222" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+      <animate attributeName="width" values="300;300;170;180;300" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+    </rect>
+    <rect x="824" y="222" width="310" height="132" rx="3" fill="#F1F5FA">
+      <animate attributeName="x" values="824;824;870;65;824" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+      <animate attributeName="y" values="222;222;220;100;222" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+      <animate attributeName="width" values="310;310;260;180;310" keyTimes="0;.22;.46;.76;1" dur="18s" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.2" fill="#6F829A">
+    <text x="74" y="93">LAYOUT A</text><text x="311" y="93">COLOUR BLOCK</text><text x="504" y="93">PRIMARY</text><text x="833" y="93">NEGATIVE SPACE</text>
+  </g>
+</g>
+<path d="M28 416H1172" stroke="#E0E7F0"/><text x="28" y="430" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.2" fill="#8292A7">BLOCKS MOVE · SCALE CHANGES · COMPOSITION RESETS</text><text x="1172" y="430" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.2" fill="#8292A7">18 SECOND LOOP</text>
+<rect x=".75" y=".75" width="1198.5" height="438.5" rx="12" fill="none" stroke="#D7E1EF" stroke-width="1.5"/>
+</svg>
