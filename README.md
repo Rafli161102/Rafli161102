@@ -92,12 +92,12 @@ Pre-press preparation, print-ready artwork, and coordinating files through produ
 <h3><img src="https://api.iconify.design/lucide/panels-top-left.svg?color=%23426EA5" width="19" height="19" alt="" /> UI/UX &amp; Digital Prototyping</h3>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/github/181717" width="30" height="30" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/github/426EA5" width="30" height="30" alt="GitHub" />
   &nbsp; <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="30" height="30" alt="Visual Studio Code" />
   &nbsp; <img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" height="30" alt="TypeScript" />
   &nbsp; <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30" height="30" alt="JavaScript" />
   &nbsp; <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="30" height="30" alt="Node.js" />
-  &nbsp; <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="30" height="30" alt="Next.js" />
+  &nbsp; <img src="https://cdn.simpleicons.org/nextdotjs/426EA5" width="30" height="30" alt="Next.js" />
   &nbsp; <img src="https://cdn.simpleicons.org/react/61DAFB" width="30" height="30" alt="React" />
   &nbsp; <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30" height="30" alt="Tailwind CSS" />
 </p>
@@ -119,7 +119,7 @@ Coordination of project scope, design-to-print workflows, and client-facing work
 
 <h2><img src="https://api.iconify.design/lucide/move-diagonal-2.svg?color=%23426EA5" width="22" height="22" alt="" /> Motion Studies</h2>
 
-These custom SVG experiments explore layout, rhythm, typography, and colour. The artwork uses separate light and dark SVG variants selected through the viewing environment's colour-scheme preference. The header headline scrolls vertically between type styles rather than fading.
+These custom SVG studies explore layout, rhythm, typography, and colour. GitHub-specific light/dark image variants make the artwork follow the theme selected for the GitHub page. In the header, “Design / Create / Build / Shape” slides upward, “with” stays fixed, and “Clarity / Purpose / Intent / Care” slides downward. Each changing word uses a different typeface; there is no text fade.
 
 **01 — Kinetic Layout**
 
