@@ -61,40 +61,40 @@ An early-stage language-design project exploring predictable behaviour, explicit
   <img src="https://img.shields.io/badge/Experimental-8EACD1?style=flat-square&logo=github&logoColor=white" alt="Experimental project" />
 </p>
 
-<h2><img src="https://api.iconify.design/lucide/shapes.svg?color=%23426EA5" width="22" height="22" alt="" /> Skills &amp; Toolkit</h2>
+<h2>Skills &amp; Toolkit</h2>
 
-<p>Organised by work area, with local logo assets to avoid missing third-party icons. Design and production skills reflect my portfolio; web tools are technologies I have used or explored while building with AI assistance.</p>
+<p>Four focused cards, with locally stored logo artwork so the marks do not depend on third-party icon CDNs. Design and production skills reflect my portfolio; web technologies are tools I have used or explored through AI-assisted projects.</p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://api.iconify.design/lucide/pen-tool.svg?color=%23426EA5" width="19" height="19" alt="" /> Design &amp; Visual Identity</h3>
-      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/skills-design-light-v2.svg#gh-light-mode-only" width="100%" alt="Adobe Photoshop, Illustrator, InDesign and Figma logos — light theme" />
-      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/skills-design-dark-v2.svg#gh-dark-mode-only" width="100%" alt="Adobe Photoshop, Illustrator, InDesign and Figma logos — dark theme" />
+      <h3>01 / Design &amp; Visual Identity</h3>
+      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/skills-design-light-v2.svg#gh-light-mode-only" width="100%" alt="Adobe Photoshop, Adobe Illustrator, Adobe InDesign, and Figma logos in the light theme" />
+      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/skills-design-dark-v2.svg#gh-dark-mode-only" width="100%" alt="Adobe Photoshop, Adobe Illustrator, Adobe InDesign, and Figma logos in the dark theme" />
       <p><strong>Practice areas</strong></p>
       <p>Brand identity, brand guidelines, typography, campaign graphics, layout systems, and visual assets.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://api.iconify.design/lucide/printer.svg?color=%23426EA5" width="19" height="19" alt="" /> Print &amp; Production</h3>
-      <p><img src="https://api.iconify.design/lucide/check-check.svg?color=%23426EA5" width="18" height="18" alt="" /> <strong>Print QC</strong><br />CMYK checks and 300 DPI artwork.</p>
-      <p><img src="https://api.iconify.design/lucide/package.svg?color=%23426EA5" width="18" height="18" alt="" /> <strong>Packaging &amp; die-cut</strong><br />Production-ready layouts and cutting guides.</p>
-      <p><img src="https://api.iconify.design/lucide/signpost.svg?color=%23426EA5" width="18" height="18" alt="" /> <strong>Commercial signage</strong><br />Pre-press preparation and print-ready files.</p>
+      <h3>02 / Print &amp; Production</h3>
+      <p><strong>PRINT QUALITY CONTROL</strong><br />CMYK checks, 300 DPI artwork, and pre-press preparation.</p>
+      <p><strong>PACKAGING &amp; DIE-CUT</strong><br />Production-ready layouts and cutting guides.</p>
+      <p><strong>COMMERCIAL SIGNAGE</strong><br />Artwork preparation and print-ready files.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://api.iconify.design/lucide/panels-top-left.svg?color=%23426EA5" width="19" height="19" alt="" /> UI/UX &amp; Digital Prototyping</h3>
-      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/skills-web-light-v2.svg#gh-light-mode-only" width="100%" alt="GitHub, VS Code, TypeScript, JavaScript, Node.js, Next.js, React and Tailwind CSS logos — light theme" />
-      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/skills-web-dark-v2.svg#gh-dark-mode-only" width="100%" alt="GitHub, VS Code, TypeScript, JavaScript, Node.js, Next.js, React and Tailwind CSS logos — dark theme" />
+      <h3>03 / UI/UX &amp; Digital Prototyping</h3>
+      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/skills-web-light-v2.svg#gh-light-mode-only" width="100%" alt="GitHub, Visual Studio Code, TypeScript, JavaScript, Node.js, Next.js, React, and Tailwind CSS logos in the light theme" />
+      <img src="https://raw.githubusercontent.com/Rafli161102/Rafli161102/main/assets/skills-web-dark-v2.svg#gh-dark-mode-only" width="100%" alt="GitHub, Visual Studio Code, TypeScript, JavaScript, Node.js, Next.js, React, and Tailwind CSS logos in the dark theme" />
       <p><strong>Practice areas</strong></p>
       <p>UI/UX exploration, web development, website prototyping, and AI-assisted building.</p>
-      <p><sub>These logos show the project toolbox, not expert-level proficiency in every technology.</sub></p>
+      <p><sub>The logos represent tools in my project toolbox, not a claim of expert-level proficiency in every technology.</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://api.iconify.design/lucide/clipboard-list.svg?color=%23426EA5" width="19" height="19" alt="" /> Project &amp; Business</h3>
-      <p><img src="https://api.iconify.design/lucide/clipboard-check.svg?color=%23426EA5" width="18" height="18" alt="" /> <strong>Project management</strong><br />Planning, scope, timelines, and coordination.</p>
-      <p><img src="https://api.iconify.design/lucide/target.svg?color=%23426EA5" width="18" height="18" alt="" /> <strong>B2B pitching</strong><br />Presenting concepts and project proposals.</p>
-      <p><img src="https://api.iconify.design/lucide/calculator.svg?color=%23426EA5" width="18" height="18" alt="" /> <strong>Quotation &amp; RAB</strong><br />Budget estimates and design-to-print workflows.</p>
+      <h3>04 / Project &amp; Business</h3>
+      <p><strong>PROJECT MANAGEMENT</strong><br />Planning, timelines, scope, and coordination.</p>
+      <p><strong>B2B PITCHING</strong><br />Presenting concepts and project proposals.</p>
+      <p><strong>QUOTATION &amp; RAB</strong><br />Budget estimates and design-to-print workflows.</p>
     </td>
   </tr>
 </table>
