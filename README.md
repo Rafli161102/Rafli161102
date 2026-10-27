@@ -1,125 +1,83 @@
 <div align="center">
 
-<img src="assets/profile-hud.svg" alt="RFLI.EXE — a custom game-interface profile header" width="100%" />
+<img src="assets/profile-hud.svg" alt="Muhammad Rafli Ramadhan — graphic design, creative strategy, and digital experiments" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=45F5CF&center=true&vCenter=true&width=720&lines=CREATIVE+STRATEGY+%2F+VISUAL+DESIGN;VIBE+CODING+%2F+AI-ASSISTED+BUILDS;IDEAS+INTO+PROTOTYPES%2C+ONE+ITERATION+AT+A+TIME" alt="Animated profile line" />
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=15&duration=3600&pause=1100&color=426EA5&center=true&vCenter=true&width=700&lines=GRAPHIC+DESIGN+%2F+VISUAL+SYSTEMS;CREATIVE+STRATEGY+%2F+DIGITAL+PROJECTS;VIBE+CODING+%2F+AI-ASSISTED+PROTOTYPES" alt="Animated profile tagline" />
 
-<a href="https://mrr.my.id"><img src="https://img.shields.io/badge/PORTFOLIO-mrr.my.id-0B1018?style=for-the-badge&logo=googlechrome&logoColor=45F5CF" alt="Personal portfolio" /></a>
-<a href="https://github.com/Rafli161102"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-0B1018?style=for-the-badge&logo=github&logoColor=45F5CF" alt="GitHub repositories" /></a>
-<a href="https://www.linkedin.com/in/m-rafli-r/"><img src="https://img.shields.io/badge/NETWORK-LINKEDIN-0B1018?style=for-the-badge&logo=linkedin&logoColor=45F5CF" alt="LinkedIn profile" /></a>
+[Portfolio](https://mrr.my.id) &nbsp;·&nbsp; [GitHub projects](https://github.com/Rafli161102?tab=repositories) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/m-rafli-r/)
 
 </div>
 
 ---
 
-<h2><img src="https://api.iconify.design/lucide/contact-round.svg?color=%2345F5CF" width="21" height="21" alt="" /> Player Profile</h2>
+<h2><img src="https://api.iconify.design/lucide/user-round.svg?color=%23426EA5" width="21" height="21" alt="" /> About</h2>
 
-I'm Rafli — a **creative strategist and graphic designer** who enjoys bringing ideas into visual form and digital experiences.
+I'm Rafli — a **graphic designer and creative strategist** interested in visual identity, print design, digital experiences, and creative communities.
 
-I call my development workflow **vibe coding**. I use AI tools to help turn a brief into a prototype or web experience, while I focus on the idea, visual direction, user flow, testing, and iteration. I'm not presenting myself as a traditional programmer; I'm learning by building, checking the results, and improving them one pass at a time.
+I also use **vibe coding** as a way to explore web ideas. AI tools help me turn concepts into prototypes; I bring the brief, visual direction, user-flow decisions, testing, and refinement. I'm not claiming to be a traditional software engineer. I learn by making things, checking how they work, and improving the result.
 
-My interests sit between visual design, creative communities, digital products, and experiments that are a little unusual.
+My approach is simple: make the idea clear, take care of the details, and keep the design useful.
 
-<h2><img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%2345F5CF" width="21" height="21" alt="" /> Current Run</h2>
+<h2><img src="https://api.iconify.design/lucide/palette.svg?color=%23426EA5" width="21" height="21" alt="" /> Areas of Practice</h2>
 
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <sub>01 / THINK</sub><br />
-      <strong>Find the idea</strong><br />
-      <small>Define the goal before opening the tools.</small>
-    </td>
-    <td width="25%" valign="top">
-      <sub>02 / SHAPE</sub><br />
-      <strong>Design the feel</strong><br />
-      <small>Set the visual direction and user flow.</small>
-    </td>
-    <td width="25%" valign="top">
-      <sub>03 / BUILD</sub><br />
-      <strong>Work with AI</strong><br />
-      <small>Turn the concept into something testable.</small>
-    </td>
-    <td width="25%" valign="top">
-      <sub>04 / REFINE</sub><br />
-      <strong>Play-test</strong><br />
-      <small>Spot rough edges, then iterate.</small>
-    </td>
-  </tr>
-</table>
+**Graphic design & visual identity**  
+Brand marks, campaign materials, layout systems, typography, and visual consistency.
 
-<h2><img src="https://api.iconify.design/lucide/notebook-tabs.svg?color=%2345F5CF" width="21" height="21" alt="" /> Quest Log</h2>
+**Print production**  
+Pre-press preparation, CMYK checks, 300 DPI artwork, packaging, commercial signage, and print quality control.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Rafli161102/wibuscript">WibuScript</a></h3>
-      <sub>LANGUAGE EXPERIMENT</sub>
-      <p>A playful programming-language project exploring syntax, a TypeScript-based interpreter, and developer tooling.</p>
-      <a href="https://github.com/Rafli161102/wibuscript"><img src="https://img.shields.io/badge/OPEN%20QUEST-182432?style=flat-square&logo=github&logoColor=45F5CF" alt="Open WibuScript repository" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Rafli161102/seira">Seira</a></h3>
-      <sub>LANGUAGE DESIGN</sub>
-      <p>An early-stage language experiment focused on predictable behavior, explicit effects, and compiler foundations.</p>
-      <a href="https://github.com/Rafli161102/seira"><img src="https://img.shields.io/badge/SEED%20STAGE-182432?style=flat-square&logo=github&logoColor=45F5CF" alt="Open Seira repository" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Rafli161102/AquaNime-Web">AquaNime Web</a></h3>
-      <sub>COMMUNITY ECOSYSTEM</sub>
-      <p>A web project connected to AquaNime, the creative community and digital ecosystem I'm building.</p>
-      <a href="https://github.com/Rafli161102/AquaNime-Web"><img src="https://img.shields.io/badge/OPEN%20QUEST-182432?style=flat-square&logo=github&logoColor=45F5CF" alt="Open AquaNime Web repository" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Rafli161102/community-forge">Community Forge</a></h3>
-      <sub>PRODUCT EXPERIMENT</sub>
-      <p>An exploration of digital tools and workflows for organizing community activity.</p>
-      <a href="https://github.com/Rafli161102/community-forge"><img src="https://img.shields.io/badge/OPEN%20QUEST-182432?style=flat-square&logo=github&logoColor=45F5CF" alt="Open Community Forge repository" /></a>
-    </td>
-  </tr>
-</table>
+**Digital exploration**  
+UI/UX ideas, web prototypes, project planning, and AI-assisted product experiments.
 
-<h2><img src="https://api.iconify.design/lucide/layers-2.svg?color=%2345F5CF" width="21" height="21" alt="" /> My Creative Loadout</h2>
+<p>
+  <img src="https://img.shields.io/badge/Graphic%20Design-426EA5?style=flat-square&labelColor=426EA5" alt="Graphic design" />
+  <img src="https://img.shields.io/badge/Print%20Production-426EA5?style=flat-square&labelColor=426EA5" alt="Print production" />
+  <img src="https://img.shields.io/badge/Digital%20Projects-426EA5?style=flat-square&labelColor=426EA5" alt="Digital projects" />
+  <img src="https://img.shields.io/badge/AI--Assisted%20Building-426EA5?style=flat-square&labelColor=426EA5" alt="AI-assisted building" />
+</p>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Visual design</strong><br />
-      Brand identity, graphic design, marketing materials, and visual systems.
-    </td>
-    <td width="33%" valign="top">
-      <strong>Production details</strong><br />
-      Print-ready files, CMYK checks, layout consistency, and quality control.
-    </td>
-    <td width="33%" valign="top">
-      <strong>Digital projects</strong><br />
-      Product direction, UI/UX exploration, planning, and AI-assisted web prototypes.
-    </td>
-  </tr>
-</table>
+<h2><img src="https://api.iconify.design/lucide/folder-open.svg?color=%23426EA5" width="21" height="21" alt="" /> Selected Projects</h2>
+
+### [WibuScript](https://github.com/Rafli161102/wibuscript)
+
+A playful programming-language experiment exploring syntax, a TypeScript-based interpreter, and developer tooling. I approach it as a space to explore ideas and learn through iteration.
+
+### [Seira](https://github.com/Rafli161102/seira)
+
+An early-stage language-design project exploring predictable behavior, explicit effects, and compiler foundations.
+
+### [AquaNime Web](https://github.com/Rafli161102/AquaNime-Web)
+
+A web project connected to AquaNime, the creative community and digital ecosystem I'm building.
+
+### [Community Forge](https://github.com/Rafli161102/community-forge)
+
+A product experiment around tools and workflows for organizing community activity.
+
+<h2><img src="https://api.iconify.design/lucide/wand-sparkles.svg?color=%23426EA5" width="21" height="21" alt="" /> Tools I Work With</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,github,vscode,nextjs,react,tailwind,supabase&perline=9&theme=dark" alt="Design and digital tools used or explored in projects" />
-  <p><sub>Tools and technologies encountered across my projects. The icons are a toolbox, not a claim of expert-level coding in every item.</sub></p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,github,vscode,nextjs,react,tailwind&perline=8&theme=light" alt="Design and digital tools used or explored across my projects" />
 </div>
 
-<h2><img src="https://api.iconify.design/lucide/orbit.svg?color=%2345F5CF" width="21" height="21" alt="" /> Signal Field</h2>
+<p align="center"><sub>These are tools I use or explore across projects, not a claim of expert-level coding in every technology.</sub></p>
 
-<p>A small visual for how I like to work: loose ideas travelling through experiments, taking shape, then changing direction when something better appears. No leaderboard, no contribution snake — just motion.</p>
+<h2><img src="https://api.iconify.design/lucide/waves.svg?color=%23426EA5" width="21" height="21" alt="" /> Studio Session</h2>
+
+A small motion study inspired by a digital audio workstation: layered tracks, rhythm clips, waveforms, and a slow-moving playback head. The animation is designed as a quiet detail in the page, using a restrained blue palette and a clean studio layout.
 
 <div align="center">
-  <img src="assets/signal-field.svg" alt="Original animated abstract signal paths, pulsing nodes, and flowing curves" width="100%" />
+  <img src="assets/signal-field.svg" alt="Animated DAW-inspired timeline with four audio tracks, waveforms, beat markers, and a moving playback cursor" width="100%" />
 </div>
 
-<h2><img src="https://api.iconify.design/lucide/door-open.svg?color=%2345F5CF" width="21" height="21" alt="" /> Continue Exploring</h2>
+<h2><img src="https://api.iconify.design/lucide/external-link.svg?color=%23426EA5" width="21" height="21" alt="" /> Let's Connect</h2>
 
-Have an idea for a visual identity, community project, digital experience, or AI-assisted prototype? Take a look at my work or reach out through my portfolio.
-
-<div align="center">
-  <a href="https://mrr.my.id"><img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-45F5CF?style=for-the-badge&logo=googlechrome&logoColor=08111A" alt="Open portfolio" /></a>
-</div>
+Have a project involving visual identity, print design, a creative community, or an AI-assisted digital prototype? Visit my portfolio to see more of my work.
 
 <div align="center">
-  <sub>RFLI.EXE / SAVE OFTEN / STAY CURIOUS / KEEP BUILDING</sub>
+
+[**View Portfolio →**](https://mrr.my.id)
+
+<sub>Made with care. Refined one iteration at a time.</sub>
+
 </div>
